@@ -1,0 +1,40 @@
+ @font-face {
+        font-family:dbold;
+         src: url(./text/unibold.ttf);
+
+         font-family: dbolfitalic;
+         src: url(./text/Uni\ Sans\ Heavy\ Italic.ttf);
+
+         font-family: dthin;
+         src: url(./text/Uni\ Sans\ Thin.ttf);
+         font-family: gg;
+         src:url(./text/gg\ sans\ Semibold.ttf);
+
+        
+    }
+    @font-face {
+      font-family: ginto;
+      src: url(./text/JumperPERSONALUSEONLY-BlackItalic.ttf);
+
+     
+    }
+    @font-face {
+      font-family: ggreg;
+      src: url(./text/gg\ sans\ Regular.ttf);
+    }
+     @font-face {
+      font-family: ggbold;
+      src: url(./text/gg\ sans\ Bold.ttf);
+    }
+    @font-face {
+      font-family:bold;
+      src: url(./text/gg\ sans\ bold.ttf);
+    }
+
+
+*{
+  
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
